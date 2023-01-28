@@ -10,4 +10,4 @@ My name is Geetha and I'm currently a datascience student of Northwestern Bootca
 - SQL and Pandas DataFrames - Employee DB 
 - Data Management with Python, SqLite and SQLAlchemy - Climate Analysis
 - MongoDB - Work with JSON dataset
-- [ETL - Chicago Food Inspections]
+- [ETL - Chicago Food Inspections](https://github.com/geethakan/proj2-ETL-foodinspection)
