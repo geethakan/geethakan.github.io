@@ -1,6 +1,4 @@
-# Hello World! Welcome to my GitHub Pages site!
-
-My name is Geetha and I'm currently a datascience student of Northwestern Bootcamp. Here are a few things I have worked on:
+# Welcome to my GitHub Pages site!
 
 - [Pandas DataFrames - City Schools](https://github.com/geethakan/pandas-challenge)
 - [Python API - Weather Analysis](https://github.com/geethakan/python-api-challenge)
